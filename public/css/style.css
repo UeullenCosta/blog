@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(223, 228, 248);
+}
+
+button.btn{
+ margin-top: 4px;
+}
+.container h3{
+    color:blue;
+}
+#telefone{
+    width: 6vh;
+    height: 6vh;
+    margin-left: 3vh;
+}
+#formulario-perguntar{
+    margin-top: 5vh;
+}
+#perguntar{
+    align-items:flex-start;
+    align-content: flex-start;
+}
